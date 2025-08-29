@@ -19,10 +19,12 @@
 - Kigurumi depth wallpaper
 - Modded CN theme manager
 - Fixed BT playback in browser
+- Free china widgets
 - Debloat
 - Undervolt
 - AOD Removed
 
 ### Bugs
 - Play integrity
+- Broken blur in opened folder with advanced texture
 - Other bugs..
