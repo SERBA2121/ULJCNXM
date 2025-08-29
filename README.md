@@ -16,6 +16,7 @@
 ### Rom features
 - Pure CN expirience
 - Super wallpapers
+- Multilanguage
 - Kigurumi depth wallpaper
 - Modded CN theme manager
 - Fixed BT playback in browser
