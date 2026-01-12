@@ -24,7 +24,7 @@
 - Undervolt
 - AOD Removed
 ### Rom V2 features (ULJCNXM2.0.5.2)
-- Global like notifications
+- Global like notifications (You still need to enable checkboxes for notification categories.)
 - More smooth
 - New kigurumi wallpapers
 - AOD depth without restrictions
