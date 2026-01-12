@@ -5,7 +5,6 @@
 - Wipe dalvik, cache, metadata,
 - Flash ROM.zip,
 - Wipe dalvik, cache, metadata,
-- You can update the realking kernel or install NOKernel if you want,
 - Format data,
 - Reboot in fastboot,
 - Execute fastboot erase frp,
@@ -24,8 +23,12 @@
 - Debloat
 - Undervolt
 - AOD Removed
+### Rom V2 features (ULJCNXM2.0.5.2)
+- Global like notifications
+- More smooth
+- New kigurumi wallpapers
+- AOD depth without restrictions
 
 ### Bugs
 - Play integrity
-- Broken blur in opened folder with advanced texture
 - Other bugs..
